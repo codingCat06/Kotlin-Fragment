@@ -1,5 +1,9 @@
 # Kotlin-Fragment
 #  
+## 참고 블로그
+#### https://todaycode.tistory.com/131
+##### ( 다른 분의 블로그로 문제가 되면 삭제하겠습니다 )
+
 ## Fragment 란?
 ### 한 Activity에 다른 여러 화면을 띄우면 관리가 힘들 뿐더러 코드가 길어진다.
 ### Fragment를 사용함으로 써 구성 화면을 여러개 띄울 수 있다.
